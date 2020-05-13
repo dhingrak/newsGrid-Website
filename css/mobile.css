@@ -58,13 +58,3 @@
         grid-row: 1;
     }
 }
-
-/* @media(max-height: 400px) {
-    #showcase {    
-        padding: 1rem;        
-    }
- 
-    #showcase .showcase-container {    
-        height: 80vh;
-    }
-} */
